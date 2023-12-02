@@ -3,24 +3,22 @@
 ## Na2na2a:
 
 ## 1. List the available shells in your system.
+![Na_1](https://github.com/AsmaaNewigy332/EmbeddedLinux/assets/69517556/87d77075-5c39-40b2-ad42-714b871a4a3d)
 
-![Na_1](https://drive.google.com/file/d/12wrKPE_qvDQCIRBNpHEdvoYYt0PQ4Q4Z/view?usp=sharing)
 
 ## 2. List the environment variables in your current shell.
+![Na_2](https://github.com/AsmaaNewigy332/EmbeddedLinux/assets/69517556/1b9cc60c-185a-431a-baae-24246f02d7b9)
 
-![Na_2](https://drive.google.com/file/d/1Y2h89tC19BI8CuT2BxFKiPHy-oJyxfwK/view?usp=sharing)
 
 ## 3. Display your current shell name.
+![Na_3](https://github.com/AsmaaNewigy332/EmbeddedLinux/assets/69517556/d83ceb3d-d1c4-47fc-850d-8f69fa99135b)
 
-![Na_3](https://drive.google.com/file/d/1O4jq9cmaKJQ5YsT8E2uRHfuPomJH7NR7/view?usp=sharing)
 
 ## 4. Execute the following command : echo \ then press enter What is the purpose of \ ?
-
-![Na_4](https://drive.google.com/file/d/1Ow7grbN7Jxrhh1bHEzUyxPh3u0J5U96O/view?usp=sharing)
-
+![Na_4](https://github.com/AsmaaNewigy332/EmbeddedLinux/assets/69517556/478f279b-ecc6-4041-acf9-d37415e630df)
  '\' it`s an echo command option which is used to write your statment or word on multiple lines and it will be displayed in only on line.
  
 
 ## 5. Create a Bash shell alias named PrintPath for the “echo $PATH” command.  
-![Na_5](https://drive.google.com/file/d/1C3Xv7ollIEFG-i5jm23qLG8SFYdic8vz/view?usp=sharing)
+![Na_5](https://github.com/AsmaaNewigy332/EmbeddedLinux/assets/69517556/e0107b30-6add-4dbc-a1ce-8564a4299cf3)
 
