@@ -8,8 +8,7 @@ outcome. Provide a detailed explanation supported by evidence as to why the
 binary can be executed from any location.
 
 ## Execution results before and after moving the binary file into /usr/local/bin directory
-
-![Question_2](/home/asmaanewigy/Pictures/Screenshots/Question_2.png)
+![Question_2](https://github.com/AsmaaNewigy332/EmbeddedLinux/assets/69517556/f36cc25f-b5a6-4468-bcab-5981190d8c24)
 
 
 ## Explanation 
